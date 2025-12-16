@@ -1,18 +1,18 @@
-PYTHON = python -m
+PYTHON = python
 
 
 # Formatters
 format: black
 
 black:
-	$(PYTHON) black nl/
+	$(PYTHON) -m black nl/
 
 
 # Linters
 lint: ruff mypy
 
 mypy:
-	$(PYTHON) mypy nl/
+	$(PYTHON) -m mypy nl/
 
 ruff:
-	$(PYTHON) ruff check nl/
+	$(PYTHON) -m ruff check nl/
