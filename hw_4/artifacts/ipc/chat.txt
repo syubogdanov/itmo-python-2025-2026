@@ -1,0 +1,35 @@
+[2025-12-31T10:47:57.978843+00:00] [M] Sending a message: Hello, World!
+[2025-12-31T10:47:57.979870+00:00] [A] Received a message: Hello, World!
+[2025-12-31T10:47:57.979906+00:00] [A] Flushing the buffer: hello, world!
+[2025-12-31T10:47:57.980112+00:00] [B] Received a message: hello, world!
+[2025-12-31T10:47:57.980574+00:00] [B] Sending an encoded message: uryyb, jbeyq!
+[2025-12-31T10:48:12.281215+00:00] [M] Sending a message: uryyb, jbeyq!
+[2025-12-31T10:48:12.281431+00:00] [M] Received an encoded message: uryyb, jbeyq!
+[2025-12-31T10:48:12.281527+00:00] [A] Received a message: uryyb, jbeyq!
+[2025-12-31T10:48:12.281556+00:00] [A] Flushing the buffer: uryyb, jbeyq!
+[2025-12-31T10:48:12.281649+00:00] [B] Received a message: uryyb, jbeyq!
+[2025-12-31T10:48:12.281677+00:00] [B] Sending an encoded message: hello, world!
+[2025-12-31T10:48:21.059508+00:00] [M] Sending a message: 1
+[2025-12-31T10:48:21.059642+00:00] [M] Received an encoded message: hello, world!
+[2025-12-31T10:48:21.059721+00:00] [A] Received a message: 1
+[2025-12-31T10:48:21.059752+00:00] [A] Flushing the buffer: 1
+[2025-12-31T10:48:21.059839+00:00] [B] Received a message: 1
+[2025-12-31T10:48:21.059869+00:00] [B] Sending an encoded message: 1
+[2025-12-31T10:48:21.341680+00:00] [M] Sending a message: 2
+[2025-12-31T10:48:21.341838+00:00] [M] Received an encoded message: 1
+[2025-12-31T10:48:21.341919+00:00] [A] Received a message: 2
+[2025-12-31T10:48:21.583649+00:00] [M] Sending a message: 3
+[2025-12-31T10:48:21.583802+00:00] [A] Received a message: 3
+[2025-12-31T10:48:26.059784+00:00] [A] Flushing the buffer: 2
+[2025-12-31T10:48:26.059923+00:00] [B] Received a message: 2
+[2025-12-31T10:48:26.059959+00:00] [B] Sending an encoded message: 2
+[2025-12-31T10:48:31.059848+00:00] [A] Flushing the buffer: 3
+[2025-12-31T10:48:31.059973+00:00] [B] Received a message: 3
+[2025-12-31T10:48:31.060005+00:00] [B] Sending an encoded message: 3
+[2025-12-31T10:48:50.917748+00:00] [M] Sending a message: YET ANOTHER TEXT
+[2025-12-31T10:48:50.917890+00:00] [M] Received an encoded message: 2
+[2025-12-31T10:48:50.917964+00:00] [A] Received a message: YET ANOTHER TEXT
+[2025-12-31T10:48:50.917969+00:00] [M] Received an encoded message: 3
+[2025-12-31T10:48:50.917994+00:00] [A] Flushing the buffer: yet another text
+[2025-12-31T10:48:50.918151+00:00] [B] Received a message: yet another text
+[2025-12-31T10:48:50.918182+00:00] [B] Sending an encoded message: lrg nabgure grkg
